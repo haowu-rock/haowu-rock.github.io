@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Carnegie Mellon University, Electrical and Computer Engineering Department"
-date: Sprint 2024 & Fall 2024 Semesters
+date: 2024-2025
 location: "Pittsburgh, PA, Unitated States"
 ---
 
