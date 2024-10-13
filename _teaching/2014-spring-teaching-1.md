@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant (18-290 Signals and Systems)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Carnegie Mellon University, Electrical and Computer Engineering Department"
+date: Sprint 2024 & Fall 2024 Semesters
+location: "Pittsburgh, PA, Unitated States"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
