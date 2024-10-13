@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Guitar Techer"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+# type: "Workshop"
+# permalink: /teaching/2015-spring-teaching-1
+venue: "Private Music Insitutes"
+date: 2011-01-01
+location: "Guangzhou, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I taught guitar on weekends as part-time job at several musical institutions from 2011 to 2018 in China.
 
 Heading 1
 ======
