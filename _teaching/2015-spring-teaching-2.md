@@ -1,8 +1,8 @@
 ---
-title: "Guitar Techer"
+title: "Guitar Teacher"
 collection: teaching
-# type: "Workshop"
-# permalink: /teaching/2015-spring-teaching-1
+type: "part-time"
+permalink: /teaching/2015-spring-teaching-1
 venue: "Private Music Insitutes"
 date: 2011-01-01
 location: "Guangzhou, China"
