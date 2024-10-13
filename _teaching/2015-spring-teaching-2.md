@@ -1,7 +1,7 @@
 ---
 title: "Guitar Teacher"
 collection: teaching
-type: "part-time"
+type: "Part-time Job"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Private Music Insitutes"
 date: 2011-01-01
