@@ -24,7 +24,7 @@ author:
   avatar           : "icon1.png"
   name             : "Hao Wu"
   pronouns         : # example: "she/her"  
-  bio              : "2nd year Master's student in Music and Technology at Carnegie Mellon University"
+  bio              : "Researcher, Engineer, Guitarist, Composer"
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
   uri              : # URL
@@ -223,6 +223,9 @@ collections:
   # talks:
   #   output: true
   #   permalink: /:collection/:path/
+  researches:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -254,6 +257,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _researches
+  - scope:
+      path: ""
+      type: researches
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _publications
   - scope:
       path: ""
@@ -280,6 +292,7 @@ defaults:
   #     layout: talk
   #     author_profile: true
   #     share: true
+  
 
 
 # Sass/SCSS
