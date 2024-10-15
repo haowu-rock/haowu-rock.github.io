@@ -8,8 +8,8 @@ main:
   - title: "Researches"
     url: /researches/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
