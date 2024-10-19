@@ -14,7 +14,7 @@ To prevent you from needing a Spotify subscription to listen, I’m posting thre
 
 Darkside (2019):
 <audio controls>
-  <source src="/files/Darkside.wav" type="audio/wav">
+  <source src="/files/Darkside.mp3" type="audio/mp3">
 </audio>
 
 Mind Anarchy (2014):
