@@ -1,6 +1,6 @@
 ---
 title: "Band member of Devastation (Chinese name: 破) from 2011 to 2019"
-excerpt: "I was the guitarist in this Chinese metal band. <br/><i>Click the title to see more details.<i/><img src='/images/devastation.jpg' >"
+excerpt: "I was the guitarist in this Chinese metal band. <br/><i>Click the title to see more details.<i/><img src='/images/devastation.png' >"
 collection: portfolio.music
 ---
 

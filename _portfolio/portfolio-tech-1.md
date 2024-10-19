@@ -14,12 +14,12 @@ For the processing settings, I randomly stacked several different clipping funct
 <!-- **Unprocessed:** -->
 <h3 style="margin: 0;">Unprocessed:</h3>
 <video width="560" height="400" controls>
-  <source src="/files/unprocessed.mov" type="video/quicktime">
+  <source src="/files/unprocessed.mp4" type="video/mp4">
 </video>
 
 <h3 style="margin: 0;">Processed:</h3>
 <video width="560" height="400" controls>
-  <source src="/files/processed.mov" type="video/quicktime"> 
+  <source src="/files/processed.mp4" type="video/mp4"> 
 </video>  
 
 <br/>

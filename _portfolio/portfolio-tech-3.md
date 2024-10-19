@@ -1,6 +1,6 @@
 ---
 title: "Guitar Tuner & Metronome Frameworks for Donner Music"
-excerpt: "(April 2021 - August 2021) I developed the tuner and metronome framework, including the low-level audio flow management, which was integrated into the Donner Music application. <br/><i>Click the title to see more details.<i/><img src='/images/tuner_metro.jpg'>"
+excerpt: "(April 2021 - August 2021) I developed the tuner and metronome framework, including the low-level audio flow management, which was integrated into the Donner Music application. <br/><i>Click the title to see more details.<i/><img src='/images/tuner_metro.png'>"
 collection: portfolio
 ---
 
@@ -10,5 +10,5 @@ I implemented the tuner algorithm, metronome, and audio buffer management, packa
 
 There is a video demonstrating the functionality of the tuner and metronome modules in the Donner Music Application.
 <video width="400" height="660" controls>
-  <source src="/files/Donner Music.mov" type="video/quicktime"> 
+  <source src="/files/Donner Music.mp4" type="video/mp4"> 
 </video>

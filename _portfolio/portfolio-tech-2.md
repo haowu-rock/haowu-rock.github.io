@@ -20,12 +20,12 @@ This is the link to the wireless mobile control application for the Arena2000 on
 </video>
 *Reverb:*
 <video width="560" height="315" controls>
-  <source src="/files/reverb.mov" type="video/quicktime"> 
+  <source src="/files/reverb.mp4" type="video/mp4"> 
 </video>
 
 <br/>
 2.I independently developed the iOS version of the ArenaControl app-the wireless controlling app for Arena2000. It helps users to dial the parameters and change the signal
 chain conveniently. Here is a video filmed in 2022 for testing the application along with the Arena2000 hardware. 
 <video width="560" height="315" controls>
-  <source src="/files/arena control.mov" type="video/quicktime">
+  <source src="/files/arena control.mp4" type="video/mp4">
 </video>
