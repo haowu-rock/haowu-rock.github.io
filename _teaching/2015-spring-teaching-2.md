@@ -9,12 +9,3 @@ location: "Guangzhou, China"
 ---
 
 I taught guitar on weekends as part-time job at several musical institutions from 2011 to 2018 in China.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
