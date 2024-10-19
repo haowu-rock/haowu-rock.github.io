@@ -3,9 +3,9 @@
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
-
+ 
 main:
-  - title: "Researches"
+  - title: "Research"
     url: /researches/
 
   # - title: "Publications"

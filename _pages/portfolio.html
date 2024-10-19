@@ -5,10 +5,26 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+
 {% include base_path %}
 
-To be filled
+
+<h1 style="font-size: 1.3em;">Research:</h1>
+Click the 'Research' tab above or the <a href="http://localhost:4000/researches/">link</a> to see my research projects.
+
+<br><br>
+<h1 style="font-size: 1.3em;">Technology:</h1>
 <!-- {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  {% if post.path contains "tech" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %} -->
+
+<br><br>
+<h1 style="font-size: 1.3em;">Music:</h1>
+{% for post in site.portfolio %}
+  {% if post.path contains "music" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
