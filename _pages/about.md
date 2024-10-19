@@ -7,14 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year master's student in Music and Technology at Carnegie Mellon University. My research interests include digital audio effects and music information retrieval, leveraging digital signal processing and machine learning techniques. My work aims to identify and address challenges in music production, live performance, and music education. Rather than replacing musicians and instrumentalists with technology, I am committed to conducting scientific research that supports and enhances their creative and learning processes. 
-Beyond technical outcomes and performance, I am deeply interested in understanding how the human brain functions and thinks during musical performance and enjoyment. A guiding principle in my work is that the true joy of music lies not in competing or creating finished songs, but in the experience of playing and creating itself.
+I am a second-year master’s student in Music and Technology at Carnegie Mellon University. My research interests include Digital Signal Processing and Music Information Retrieval, focusing on areas such as symbolic music generation, audio effects modeling, audio effects estimation and detection, and more. My work aims to identify and address challenges in music production, live performance, and music education. Additionally, I have a strong interest in Audio Perception and Music Cognition, with a focus on understanding how the human brain functions during musical performance and creation. This interest has provided valuable insights that inform my future research. Rather than replacing musicians and instrumentalists with technology, I am dedicated to conducting scientific research that supports and enhances their creative and learning processes. A guiding principle in my work is that the true joy of music lies not in competition or creating finished songs, but in the experience of playing and creating itself.
 
-- **2 years of working experience as an Audio Algorithm Engineer**
-- **7 years of working experience as a Software Developer**
-- **Over 15 years of guitar playing experience**
-- **8 years of music creation and performance experience in a band**
-- **7 years of part-time guitar teaching experience**
+- *2 years of working experience as an Audio Algorithm Engineer*
+- *7 years of working experience as a Software Developer*
+- *Over 15 years of guitar playing experience*
+- *8 years of music creation and performance experience in a band*
+- *7 years of part-time guitar teaching experience*
 
 
 

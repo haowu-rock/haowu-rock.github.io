@@ -1,10 +1,10 @@
 ---
 title: "Band member of Devastation (Chinese name: 破) from 2011 to 2019"
-excerpt: "I was the guitarist in this Chinese metal band. Click the title to see more details. <br/><img src='/images/devastation.jpg' >"
+excerpt: "I was the guitarist in this Chinese metal band. <br/><i>Click the title to see more details.<i/><img src='/images/devastation.jpg' >"
 collection: portfolio.music
 ---
 
-This is the band's page on Spotify: <a href="https://open.spotify.com/artist/45ZSxVFs1txonKgHR9D5vC">Devastation</a>
+This is the band's page on Spotify: <a href="https://open.spotify.com/artist/45ZSxVFs1txonKgHR9D5vC" target="_blank">Devastation</a>
 
 During my time with the band, we released two digital albums/EPs, performed over 60 live shows, and completed two tours in China. I was responsible for composing and producing demos for most of the songs.  
 

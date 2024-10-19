@@ -1,6 +1,6 @@
 ---
 title: "Videos of Live Performance"
-excerpt: "There are several video recordings of live performances. Click the title to see more details.<br/><img src='/images/performance.jpg'>"
+excerpt: "There are several video recordings of live performances. <br/><i>Click the title to see more details.<i/><img src='/images/performance.jpg'>"
 collection: portfolio.music
 ---
 

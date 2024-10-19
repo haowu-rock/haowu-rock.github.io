@@ -1,6 +1,6 @@
 ---
 title: "Guitar Playthrough Videos"
-excerpt: "There are mine several guitar playthrough videos. Click the title to see more details.<br/><img src='/images/play_through.png'>"
+excerpt: "There are mine several guitar playthrough videos. <br/><i>Click the title to see more details.<i/><img src='/images/play_through.png'>"
 collection: portfolio.music
 ---
 
