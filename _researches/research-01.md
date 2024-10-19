@@ -29,7 +29,7 @@ This signal flow diagram illustrates the general processing steps involved.
 
 The project is proprietary to the company, so I am unable to share the code. However, there is a demo video recorded in 2022 showcasing the application built on this algorithm. In the video, I am demonstrating the algorithm's functionality by playing the guitar.
 <video width="640" height="360" controls>
-  <source src="/files/ChordRecognition_DSP.MOV" type="video/quicktime">
+  <source src="/files/ChordRecognition_DSP.mov" type="video/quicktime">
 </video>
 *This video demonstrates chord recognition using DSP techniques. I am the person in the video!*
 
@@ -40,7 +40,7 @@ This is a chord recognition method based on the LightGBM
 
 Another demo video, recorded in 2022, showcases the capabilities of the machine learning algorithm. In this demo, we load a song along with its corresponding label file. Once the analysis is complete, the predicted chord labels are displayed alongside the correct labels, both aligned with the audio waveform at the bottom of the screen.
 <video width="640" height="360" controls>
-  <source src="/files/ChordRecognition_ML.MOV" type="video/quicktime">
+  <source src="/files/ChordRecognition_ML.mov" type="video/quicktime">
 </video>
 *This video demonstrates chord recognition using Machine Learning techniques.*
 
