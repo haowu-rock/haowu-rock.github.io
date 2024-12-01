@@ -10,7 +10,7 @@ permalink: /research/research-02
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-I worked as a research assistant at the Auditory Lab and Spatial Experiences Lab at Carnegie Mellon University during the summer break of 2024.
+I worked as a research assistant at Spatial Experiences Lab at Carnegie Mellon University during the summer break of 2024.
 
 I implemented a DOA algorithm using two microphones to evaluate the results of auditory
 perception experiments and calibrate the localization performance of the Wave Field Synthesis
