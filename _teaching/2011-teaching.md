@@ -2,7 +2,7 @@
 title: "Guitar Teacher"
 collection: teaching
 type: "Part-time Job"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2011-teaching
 venue: "Private Music Insitutes"
 date: 2011-01-01
 location: "Guangzhou, China"
