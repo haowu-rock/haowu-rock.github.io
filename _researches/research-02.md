@@ -9,7 +9,7 @@ permalink: /research/research-02
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
-
+<img src="/images/speaker-array.png" alt="transcription" width="600"/>  
 I worked as a research assistant at Spatial Experiences Lab at Carnegie Mellon University during the summer break of 2024.
 
 I implemented a DOA algorithm using two microphones to evaluate the results of auditory
