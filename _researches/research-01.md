@@ -10,7 +10,6 @@ permalink: /research/research-03
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 <img src="/images/guitar-chord-recog.png" alt="transcription" width="400"/>  
-
 This project was a preliminary research initiative aimed at exploring potential future products for Guangzhou Rantion Technology Ltd., where I worked as an Audio Algorithm Engineer from 2021 to 2023. I designed a real-time guitar chord recognition algorithm using DSP techniques and contributed to research on non-real-time music chord recognition, leveraging machine learning methods. Rantion Technology Ltd. has patented this algorithm. Click the title for more details.
 
 ## 1. Real-Time Guitar Chord Recognition Algorithm 
