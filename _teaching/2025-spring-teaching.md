@@ -8,4 +8,5 @@ date: 2025-01-13
 location: "Pittsburgh, PA, Unitated States"
 ---
 
-I will be a teaching assistant for the course 18-491/18-691, Digital Signal Processing, at Carnegie Mellon University during the Spring 2025 semester. I have accepted the offer to be the TA for the course next semester.
+
+I am currently a teaching assistant for the course 18-491/18-691 Digital Signal Processing at Carnegie Mellon University during the Spring 2025 semester.
