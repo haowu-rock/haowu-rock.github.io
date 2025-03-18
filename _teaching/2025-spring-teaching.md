@@ -9,4 +9,4 @@ location: "Pittsburgh, PA, Unitated States"
 ---
 
 
-I am currently a teaching assistant for the course 18-491/18-691 Digital Signal Processing at Carnegie Mellon University during the Spring 2025 semester.
+I am currently a teaching assistant for the course 18-491/18-691 Digital Signal Processing at Carnegie Mellon University during the Spring 2025 semester. My responsibilities include holding weekly office hours, leading weekly recitations if the professor is unavailable, grading homework, and proctoring exams.
